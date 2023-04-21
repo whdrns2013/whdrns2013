@@ -21,11 +21,12 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pynecone-000000?style=for-the-badge&logo=심플아이콘즈의로고이름&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pynecone-000000?style=for-the-badge&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dot_ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=white"/></a>
 
 
 <br>
