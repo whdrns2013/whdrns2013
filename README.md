@@ -46,14 +46,16 @@
 
 🏗 공사중
 
-|period|project name|
-|---|---|
-|`2023.02 - 2023.04`|컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션|
-|`2023.02`|딥러닝 음성 및 자연어 기술을 이용한 TTS 서비스|
-|`2023.01 - 진행중`|이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티|
-|`2023.12`|딥러닝 영상기술을 이용한 과채류 종류 및 신선도 판별|
-|`2023.12`|머신러닝 기반 서울시 통신 데이터를 통한 생활습관 도출|
-|`2023.11`|대기질 및 암 발생률 관계 분석 및 시각화|
+|period|project name|team|link|
+|---|---|---|---|
+|`2023.02 - 2023.04`|컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션<br>Harmful animal detection, extermination and path tracking solution using computer vision technology|`team`||
+|`2023.02`|딥러닝 음성 및 자연어 기술을 이용한 TTS 서비스<br>TTS service using deep learning voice and natural language technology|`team`||
+|`2023.01`|애플 앱스토어 리뷰 스크래퍼<br>Apple App Store Review Scraper|`solo`||
+|`2023.01 - 진행중`|이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티<br>Margin calculation service and community for e-commerce small businesses|`team`||
+|`2023.12`|딥러닝 영상기술을 이용한 과채류 종류 및 신선도 판별<br>Determination of type and freshness of fruits and vegetables using deep learning imaging technology|`team`||
+|`2023.12`|머신러닝 기반 서울시 통신 데이터를 통한 생활습관 도출<br>Deriving lifestyle habits through machine learning-based Seoul city communication data|`team`||
+|`2023.11`|대기질 및 암 발생률 관계 분석 및 시각화<br>Air quality and cancer incidence relationship analysis and visualization|`team`||
+|`2023.11`|온라인 설문조사 웹페이지 구축<br>online survey webpage|`solo`||
 
 
 
