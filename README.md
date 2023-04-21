@@ -4,7 +4,7 @@
 <br>
 
 ## 📧 Contact  
----
+
 <a href="mailto:whdrns2013@naver.com"><img src="https://img.shields.io/badge/whdrns2013@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:whdrns2013@naver.com"/></a>
 
 <a href="https://whdrns2013.github.io/"><img src="https://img.shields.io/badge/Jongya's Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://whdrns2013.github.io/"/></a> 
@@ -13,7 +13,7 @@
 <br>
 
 ## 🧑‍💻 Skills  
----
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
@@ -33,7 +33,7 @@
 <br>
 
 ## 💳 License  
----
+
 - ADsP  
 - 빅데이터분석기사  
 - SQLD  
@@ -44,14 +44,14 @@
 <br>
 
 ## 🚀 Projects  
----
+
 🏗 공사중
 
 <br>
 <br>
 
 ## Also I Am..  
----
+
 
 😆 Crazy in Music  
 🎸 Bassist  
