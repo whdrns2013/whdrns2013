@@ -1,6 +1,7 @@
-# <center> Hi there 👋 </center>
-<center>새내기 AI 프로그래머 Jongya 입니다.</center>
+# Hi there 👋
+새내기 AI 프로그래머 Jongya 입니다.
 
+<br>
 <br>
 
 ## 📮 Contact  
