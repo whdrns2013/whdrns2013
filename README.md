@@ -31,17 +31,6 @@
 <br>
 <br>
 
-## 💳 License  
-
-- ADsP  
-- 빅데이터분석기사  
-- SQLD  
-- 정보처리기사 (필기만!)  
-
-
-<br>
-<br>
-
 ## 🚀 Projects  
 
 |period|project name|team|link|
@@ -54,6 +43,17 @@
 |`2023.12`|**머신러닝 기반 서울시 통신 데이터를 통한 생활습관 도출**<br>`Deriving lifestyle habits through Seoul city communication data`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/pythonDir/project_machinelearning_20221202">link</a>|
 |`2023.11`|**대기질 및 암 발생률 관계 분석 및 시각화**<br>`Air quality and cancer incidence relationship visualization`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/pythonDir/project_visualization_project_20221121">link</a>|
 |`2023.11`|**온라인 설문조사 웹페이지 구축**<br>`Online survey webpage`|`solo`|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/java/project_survey_web_20221028">link</a>|
+
+
+<br>
+<br>
+
+## 💳 License  
+
+- ADsP  
+- 빅데이터분석기사  
+- SQLD  
+- 정보처리기사 (필기만!)  
 
 
 <br>
