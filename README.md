@@ -48,15 +48,14 @@
 
 |period|project name|team|link|
 |---|---|---|---|
-|`2023.02 - 2023.04`|**컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션**<br>`Harmful animal detection, extermination and path tracking solution`|`team`||
-|`2023.02`|**딥러닝 음성 및 자연어 기술을 이용한 TTS 서비스**<br>`TTS service using deep learning voice technology`|`team`||
-|`2023.01`|**애플 앱스토어 리뷰 스크래퍼**<br>`Apple App Store Review Scraper`|`solo`||
+|`2023.02 - 2023.04`|**컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션**<br>`Harmful animal detection, extermination and path tracking solution`|`team`|<a href="https://github.com/whdrns2013/lab/tree/main/20230210_sesac_final">link</a>|
+|`2023.02`|**딥러닝 음성 및 자연어 기술을 이용한 TTS 서비스**<br>`TTS service using deep learning voice technology`|`team`|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/pythonDir/project_nlp_sound_20230202">link</a>|
+|`2023.01`|**애플 앱스토어 리뷰 스크래퍼**<br>`Apple App Store Review Scraper`|`solo`|<a href="https://github.com/whdrns2013/lab/tree/main/20230129_apple_app_review_scrapper">link</a>|
 |`2023.01 - 진행중`|**이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티**<br>`Margin calculation service for e-commerce businesses`|`team`||
-|`2023.12`|**딥러닝 영상기술을 이용한 과채류 종류 및 신선도 판별**<br>`Determination of type and freshness of fruits and vegetables`|`team`||
-|`2023.12`|**머신러닝 기반 서울시 통신 데이터를 통한 생활습관 도출**<br>`Deriving lifestyle habits through Seoul city communication data`|`team`||
-|`2023.11`|**대기질 및 암 발생률 관계 분석 및 시각화**<br>`Air quality and cancer incidence relationship visualization`|`team`||
-|`2023.11`|**온라인 설문조사 웹페이지 구축**<br>`Online survey webpage`|`solo`||
-
+|`2023.12`|**딥러닝 영상기술을 이용한 과채류 종류 및 신선도 판별**<br>`Determination of type and freshness of fruits and vegetables`|`team`|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/pythonDir/project_vegetable_20221219">link</a>|
+|`2023.12`|**머신러닝 기반 서울시 통신 데이터를 통한 생활습관 도출**<br>`Deriving lifestyle habits through Seoul city communication data`|`team`|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/pythonDir/project_machinelearning_20221202">link</a>|
+|`2023.11`|**대기질 및 암 발생률 관계 분석 및 시각화**<br>`Air quality and cancer incidence relationship visualization`|`team`|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/pythonDir/project_visualization_project_20221121">link</a>|
+|`2023.11`|**온라인 설문조사 웹페이지 구축**<br>`Online survey webpage`|`solo`|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/java/project_survey_web_20221028">link</a>|
 
 
 <br>
@@ -64,8 +63,8 @@
 
 ## Also I Am..  
 
-
 😆 Crazy in Music  
+⚾ Crazy in Baseball  
 🎸 Bassist  
 📷 Photographer  
 
