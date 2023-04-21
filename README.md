@@ -48,7 +48,7 @@
 
 |period|project name|team|link|
 |---|---|---|---|
-|`2023.02 - 2023.04`|**컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션**<br>Harmful animal detection, extermination and path tracking solution|`team`||
+|`2023.02 - 2023.04`|**컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션**<br>`Harmful animal detection, extermination and path tracking solution`|`team`||
 |`2023.02`|**딥러닝 음성 및 자연어 기술을 이용한 TTS 서비스**<br>TTS service using deep learning voice technology|`team`||
 |`2023.01`|**애플 앱스토어 리뷰 스크래퍼**<br>Apple App Store Review Scraper|`solo`||
 |`2023.01 - 진행중`|**이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티**<br>Margin calculation service for e-commerce businesses|`team`||
