@@ -57,7 +57,7 @@
 <br>
 <br>
 
-## 💳 License  
+## 💳 Licenses  
 
 - ADsP  
 - 빅데이터분석기사  
