@@ -47,7 +47,7 @@
 |---|---|---|---|
 |`2023.01 - Working`|**이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티**<br>`Margin calculation service for e-commerce businesses`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>||
 
-**Completed Project**  
+**Completed Projects**  
 
 |period|project name|team|link|
 |---|---|---|---|
