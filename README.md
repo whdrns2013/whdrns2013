@@ -42,12 +42,13 @@
 
 ## 🚀 Projects  
 
-**Ongoing Projects**  
+**▶ Ongoing Projects 진행중인 프로젝트**  
+
 |period|project name|team|link|
 |---|---|---|---|
 |`2023.01 - Working`|**이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티**<br>`Margin calculation service for e-commerce businesses`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>||
 
-**Completed Projects**  
+**⚪ Completed Projects 완료된 프로젝트**  
 
 |period|project name|team|link|
 |---|---|---|---|
