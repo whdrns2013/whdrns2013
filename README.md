@@ -77,6 +77,9 @@
 🎹 Learning to Compose  
 
 
+#### &emsp; [![Jongya's github stats](https://github-readme-stats.vercel.app/api?username=min731)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 아이콘 : https://simpleicons.org/
 뱃지 : https://shields.io/
