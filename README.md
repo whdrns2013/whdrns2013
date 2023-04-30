@@ -40,6 +40,16 @@
 <br>
 <br>
 
+## 👉 Recently  
+
+이 프로젝트를 눈여겨 봐주세요!  
+* **컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션**  
+<a href="https://github.com/whdrns2013/lab/tree/main/20230210_sesac_final">프로젝트 link</a>
+
+
+<br>
+<br>
+
 ## 🚀 Projects  
 
 **▷ Ongoing Projects 진행중인 프로젝트**  
