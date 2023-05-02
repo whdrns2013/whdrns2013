@@ -87,8 +87,8 @@
 
 ## Also I Am..  
 
-😆 Crazy in Music  
-⚾ Crazy in Baseball  
+😆 Crazy about Music  
+⚾ Crazy about Baseball  
 🎸 Bassist  
 📷 Photographer  
 🎹 Learning to Compose  
