@@ -1,5 +1,5 @@
 # Ai there! 👋
-새내기 AI 프로그래머 Jongya 입니다.
+새내기 Web 개발자 / AI 프로그래머 Jongya 입니다.
 
 <br>
 <br>
