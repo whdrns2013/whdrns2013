@@ -7,7 +7,7 @@
 <br> 
 <br>   
    
-## 📮 Contact  
+## 📮 Contact   
  
 <a href="mailto:whdrns2013@naver.com"><img src="https://img.shields.io/badge/whdrns2013@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:whdrns2013@naver.com"/>
 <a href="https://whdrns2013.github.io/"><img src="https://img.shields.io/badge/Jongya's Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://whdrns2013.github.io/"/>
