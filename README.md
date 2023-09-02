@@ -76,7 +76,7 @@
 - 빅데이터분석기사  
 - SQLD  
 - 정보처리기사  
-
+- AWS Practitioner  
 
 <br>
 <br>
