@@ -32,15 +32,6 @@
 <img src="https://img.shields.io/badge/SVN-000000?style=for-the-badge&logo=&logoColor=white"/></a>
 
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pynecone-000000?style=for-the-badge&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Dot_ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a>
-
-
 <br>
 <br>
 
