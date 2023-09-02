@@ -51,12 +51,13 @@
 
 |period|project name|team|link|
 |---|---|---|---|
-|`2023.01 - Working`|**이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티**<br>`Margin calculation service for e-commerce businesses`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>||
+|-|-|-|-|
 
 **☐ Completed Projects 완료된 프로젝트**  
 
 |period|project name|team|link|
 |---|---|---|---|
+|`2023.01 - Stop`|**이커머스 소상공인을 위한 마진계산 서비스 및 커뮤니티**<br>`Margin calculation service for e-commerce businesses`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>||
 |`2023.02 - 2023.04`|**컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션**<br>`Harmful animal detection, extermination and path tracking solution`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>|<a href="https://github.com/whdrns2013/lab/tree/main/20230210_sesac_final">link</a>|
 |`2023.02`|**딥러닝 음성 및 자연어 기술을 이용한 TTS 서비스**<br>`TTS service using deep learning voice technology`|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>|<a href="https://github.com/whdrns2013/Workspace_SeSAC/tree/main/pythonDir/project_nlp_sound_20230202">link</a>|
 |`2023.01`|**애플 앱스토어 리뷰 스크래퍼**<br>`Apple App Store Review Scraper`|`solo`|<a href="https://github.com/whdrns2013/lab/tree/main/20230129_apple_app_review_scrapper">link</a>|
