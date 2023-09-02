@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SVN-000000?style=for-the-badge&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SVN-000000?style=for-the-badge&logo=subversion&logoColor=#809CC9"/></a>
 
 
 <br>
