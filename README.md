@@ -11,7 +11,7 @@
 <a href="https://whdrns2013.github.io/"><img src="https://img.shields.io/badge/Jongya's Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://whdrns2013.github.io/"/>
   
 <br>  
-<br>  
+<br>   
    
 ## 🧑‍💻 Skills  
 
