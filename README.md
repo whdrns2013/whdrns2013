@@ -19,16 +19,27 @@ Jongya 입니다.
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
+
+
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/></a>
 
@@ -58,10 +69,6 @@ Jongya 입니다.
 
 ## 👉 Recently  
 
-이 프로젝트를 눈여겨 봐주세요!  
-* **컴퓨터 비전 기술을 이용한 유해동물 탐지, 퇴치 및 경로추적 솔루션**  
-<a href="https://github.com/whdrns2013/lab/tree/main/20230210_sesac_final">프로젝트 link</a>
-
 
 <br>
 <br>
@@ -72,7 +79,7 @@ Jongya 입니다.
 
 |period|project name|team|link|
 |---|---|---|---|
-|`2024.01.15 - OnGoing`|**Docker Registry Web & Permission management UI // Flutter**|`personal`|-|
+|`2025.01.15 - OnGoing`|**Some Matching Recommend Service // Python, Flutter**|`personal`|-|
 
 **☐ Completed Projects 완료된 프로젝트**  
 
