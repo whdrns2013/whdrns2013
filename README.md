@@ -45,7 +45,7 @@ Jongya 입니다.
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rocky-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/rockylinux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a>
 
 
