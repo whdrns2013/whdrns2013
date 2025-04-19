@@ -79,7 +79,7 @@ Jongya 입니다.
 
 |period|project name|team|link|
 |---|---|---|---|
-|`2025.01.15 - OnGoing`|**Some Matching Recommend Service // Python, Flutter**|`personal`|-|
+|`2025.01.15 - OnGoing`|**Some Matching Recommend Service // Python, Flutter**|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>|-|
 
 **☐ Completed Projects 완료된 프로젝트**  
 
