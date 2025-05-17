@@ -54,8 +54,6 @@ Jongya 입니다.
  <div>
 <img src="https://img.shields.io/badge/scikit-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
 
-
- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColoramazonrds=white"/></a>
  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a>
