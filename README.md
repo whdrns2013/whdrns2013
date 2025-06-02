@@ -111,7 +111,7 @@ Jongya 입니다.
 ## Also I Am..  
 
 😆 Crazy about Music  
-⚾ Crazy about Baseball  
+⚾ A huge fan of Baseball  
 🎸 Bassist  
 📷 Photographer  
 🎹 Learning to Compose  
