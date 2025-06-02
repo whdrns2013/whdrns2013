@@ -77,6 +77,7 @@ Jongya 입니다.
 
 |period|project name|team|link|
 |---|---|---|---|
+|`2025.04.23 - OnGoing`|**Recommend System with LLM in E-commerce**|`personal`|<a href="https://github.com/whdrns2013/shopping_llm_recommendation">link</a>|
 |`2025.01.15 - OnGoing`|**Some Matching Recommend Service // Python, Flutter**|<img src="https://img.shields.io/badge/team-E2001A?style=style=flat-square&logo=&logoColor=white"/>|-|
 
 **☐ Completed Projects 완료된 프로젝트**  
