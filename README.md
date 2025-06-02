@@ -66,12 +66,6 @@ Jongya 입니다.
 <br>
 <br>
 
-## 👉 Recently  
-
-
-<br>
-<br>
-
 ## 🚀 Projects  
 
 **▷ Ongoing Projects 진행중인 프로젝트**  
